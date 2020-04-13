@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Dev/Study/cachingredis" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/Study/studies-e-point" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/deploy/wiq" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/digital-wallet" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/entries-applier" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/fmproxy" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/jcurtain" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/jerome" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/personal/agile-game" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/personal/culture-hunter" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/personal/culture-hunters" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/personal/natal-chart-calculator" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/personal/qual-es-la-song" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/sharapova-service" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/sharapova-tasks" value="PREVIEW" />
+        <entry key="$USER_HOME$/Dev/wiq" value="PREVIEW" />
+        <entry key="$USER_HOME$/entries-applier" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
